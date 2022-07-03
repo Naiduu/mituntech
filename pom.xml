@@ -8,19 +8,19 @@
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>https://github.com/Naiduu/mituntech.git</url>
 
 	<organization>
 		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<url>https://github.com/Naiduu/mituntech.git</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://35.154.242.68:9000/</sonar.host.url>
+		<sonar.host.url>http://3.232.56.23:8081/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password>
+		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -40,15 +40,15 @@
 		mvn scm:update -->
 	<!--
 	<scm>
-		<connection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</connection>
-		<developerConnection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</developerConnection>
+		<connection>scm:git:https://github.com/Naiduu/mituntech.git</connection>
+		<developerConnection>scm:git:https://github.com/Naiduu/mituntech.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application</url>
+		<url>https://github.com/Naiduu/mituntech.git</url>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application/issues</url>
+		<url>https://github.com/Naiduu/mituntech.git</url>
 	</issueManagement>
 
 	-->
