@@ -17,13 +17,19 @@
 	
 	<description>Maven Standalone Application</description>
 
-	<properties>
+<!--	<properties>
 		<sonar.host.url>http://3.232.56.23:8081/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
+	</properties>   -->
+	
+<properties>
+   <maven.compiler.source>6</maven.compiler.source>
+   <maven.compiler.target>1.6</maven.compiler.target>
+ </properties>
 
+	
 	<dependencies>
 
 		<dependency>
