@@ -15,12 +15,7 @@
 		<url>https://github.com/Naiduu/mituntech.git</url>
 	</organization>
 	
-	<description>Maven Standalone Application</description>
-
-	<properties>
-	
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties> 
+	<description>Maven Standalone Application</description> 
 	
 <properties>
    <maven.compiler.source>6</maven.compiler.source>
