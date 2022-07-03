@@ -56,6 +56,16 @@
 		<system>GitHub</system>
 		<url>https://github.com/Naiduu/mituntech.git</url>
 	</issueManagement>
+<distributionManagement>
+    <snapshotRepository>
+      <id>nexus-snapshots</id>
+      <url>http://3.232.56.23:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+    <repository>
+      <id>nexus-releases</id>
+      <url>http://3.232.56.23:8081/repository/maven-releases/</url>
+    </repository>
+  </distributionManagement>
 
 	-->
 	<build>
