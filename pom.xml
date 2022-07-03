@@ -17,12 +17,12 @@
 	
 	<description>Maven Standalone Application</description>
 	
-<!--	
+	
  <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
   </properties>
-	-->
+	
 	
 <!--	<properties>
 		<sonar.host.url>http://3.232.56.23:8081/</sonar.host.url>
