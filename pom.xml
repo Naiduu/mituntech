@@ -44,7 +44,7 @@
 	<!-- Committing and updating changes through Maven, by using below mvn command. 
 		For Commiting mvn -Dmessage="Updated using maven" scm:checkin For updating 
 		mvn scm:update -->
-	<!--
+	
 	<scm>
 		<connection>scm:git:https://github.com/Naiduu/mituntech.git</connection>
 		<developerConnection>scm:git:https://github.com/Naiduu/mituntech.git</developerConnection>
@@ -67,7 +67,7 @@
     </repository>
   </distributionManagement>
 
-	-->
+	
 	<build>
 	  <plugins>
 	    <plugin>
